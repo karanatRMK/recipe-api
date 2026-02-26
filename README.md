@@ -185,24 +185,6 @@ Validated sorting and limiting logic
 
 Handled edge cases (invalid ID, missing fields)
 
-📈 Scalability & Improvements
-
-Future enhancements could include:
-
-Pagination metadata (total count, page number)
-
-DTO layer to decouple entity exposure
-
-JWT-based authentication
-
-Caching (Redis)
-
-API documentation via Swagger/OpenAPI
-
-Docker containerization
-
-Cloud deployment (AWS / GCP / Azure)
-
 💡 What This Project Demonstrates
 
 Strong understanding of Spring Boot ecosystem
